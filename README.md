@@ -1,5 +1,3 @@
-# ODDGUI
-
 ODDGUI blog documents experiments in design, electronics, code, and fabrication by[ Zevensuy Rodriguez](http://www.zevenrodriguez.com).
 
 Zevensuy Rodriguez is a maker/designer/prototyper born in Miami, FL. He graduated and was a Fellow at NYU’s Interactive Telecommunications Masters Program and did his undergrad at Univ. of Miamiâs Visual Communications program. Â He founded [Howlin’ Wolves](http://www.howlinwolves.com) a prototyping and fabrication company based in Williamsburg, Brooklyn. Projects range from web, electronics, to custom fabrication including CNC Milling.

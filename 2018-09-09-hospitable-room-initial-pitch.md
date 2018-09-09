@@ -7,3 +7,8 @@ draft: true
 ---
 
 
+# Hospitable Room: Initial Pitch
+
+Katherine and I created this processing sketch to illustrate how the user would navigate through the world. In the next version the mouse will be replaced by a wheel chair. The idea is that the user will use the wheel chair to navigate around the world.
+
+[hospitableroom/ZoomInViewer_Feb02/](hospitableroom/ZoomInViewer_Feb02/ "Initial Idea")
